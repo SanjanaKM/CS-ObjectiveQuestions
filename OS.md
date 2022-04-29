@@ -39,3 +39,65 @@ vi) Multilevel Feedback Queue scheduling
     2. Terminated state
     3. Ready state [**Answer**]
     4. Blocked state
+14. Cascading termination refers to the termination of all child processes if the parent process terminates ______
+    1. Normally or abnormally [**Answer**]
+    2. Abnormally
+    3. Normally
+    4. None of the mentioned
+20. A deadlock avoidance algorithm dynamically examines the _____ to ensure that a circular wait condition can never exist.
+    1. operating system
+    2. resources
+    3. system storage state
+    4. resource allocation state [**Answer**]
+1. Banker's algorithm is used?
+    1. To prevent deadlock [**Answer**]
+    1. To deadlock recovery
+    1. To solve the deadlock
+    1. None of these
+18. If the page size increases, the internal fragmentation is also?
+    1. Decreases
+    2. Increases [**Answer**]
+    3. Remains constant
+    4. None of these
+
+26. Which of the following is a condition that causes deadlock?
+    1. Mutual exclusion
+    2. Hold and wait
+    3. Circular wait
+    4. No preemption
+    5. All of these [**Answer**]
+2. What type of scheduling is round-robin scheduling?
+    1. Linear data scheduling
+    1. Non-linear data scheduling
+    1. Preemptive scheduling [**Answer**]
+    1. Non-preemptive scheduling
+3. Which conditions must be satisfied to solve a critical section problem?
+    1. Bounded Waiting
+    1. Progress
+    1. Mutual Exclusion
+    1. All of these [**Answer**]
+12. Which of the following "semaphore" can take the non-negative integer values?
+    1. Binary Semaphore
+    1. Counting Semaphore [**Answer**]
+    1. Real Semaphore
+    1. All of the these
+21. Which of the following scheduling algorithm is non-preemptive scheduling?
+    1. SJF scheduling [**Answer**] (Shortest Job First)
+    1. Round-Robin scheduling
+    1. SRTF scheduling
+    1. None of these.
+2. Which of the following scheduling algorithms is preemptive scheduling?
+    1. FCFS Scheduling
+    1. SJF Scheduling
+    1. Network Scheduling
+    1. SRTF Scheduling [**Answer**] (Shortest Remaining Time First)
+2. Which of the following scheduling reduces process flow time?
+    1. FCFS
+    1. LIFO
+    1. SJF [**Answer**]
+    1. All of the these
+2. SSTF stands for ______.
+    1. Shortest Signal Time First
+    1. Shortest Seek Time First [**Answer**]
+    1. System Seek Time First
+    1. System Shortest Time First
