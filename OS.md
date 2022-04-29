@@ -101,3 +101,23 @@ vi) Multilevel Feedback Queue scheduling
     1. Shortest Seek Time First [**Answer**]
     1. System Seek Time First
     1. System Shortest Time First
+37. Which of the following mechanisms is a locking mechanism?
+    1. Semaphore
+    1. PCB
+    1. Mutex [**Answer**]
+    1. Binary Semaphore
+1. A monitor is a type of ____________
+    1. semaphore
+    1. low level synchronization construct
+    1. high level synchronization construct [**Answer**]
+    1. none of the mentioned
+12. Which of the following statements are true?
+    > I. Shortest remaining time first scheduling may cause starvation
+    >
+    >II. Preemptive scheduling may cause starvation
+    >
+    >III. Round robin is better than FCFS in terms of response time
+    1. I only
+    1. I and III only
+    1. II and III only
+    1. I, II and III [**Answer**]
