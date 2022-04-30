@@ -121,3 +121,8 @@ vi) Multilevel Feedback Queue scheduling
     1. I and III only
     1. II and III only
     1. I, II and III [**Answer**]
+3. What are the two steps of a process execution?
+    1. I/O & OS Burst
+    1. CPU & I/O Burst (**Answer**)
+    1. Memory & I/O Burst
+    1. OS & Memory Burst
