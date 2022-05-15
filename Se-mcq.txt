@@ -1,0 +1,536 @@
+1) What is the first step in the software development lifecycle?
+
+System Design
+Coding
+System Testing
+Preliminary Investigation and Analysis *
+
+2) What does the study of an existing system refer to?
+
+Details of DFD
+Feasibility Study
+System Analysis *
+System Planning
+
+3) Which of the following is involved in the system planning and designing phase of the Software Development Life Cycle (SDLC)?
+
+Sizing
+Parallel run
+Specification freeze
+All of the above *
+
+5) Which of the following prototypes does not associated with Prototyping Model?
+
+Domain Prototype
+Vertical Prototype
+Horizontal Prototype
+Diagonal Prototype *
+
+7) Which of the following does not relate to Evolutionary Process Model?
+
+Incremental Model
+Concurrent Development Model
+WINWIN Spiral Model
+All of the above *
+
+8) What is the major drawback of the Spiral Model?
+
+Higher amount of risk analysis
+Doesn't work well for smaller projects *
+Additional functionalities are added later on
+Strong approval and documentation control
+
+9) Model selection is based on __________.
+
+Requirements
+Development team & users
+Project type & associated risk
+All of the above *
+
+10) Which of the following option is correct?
+
+
+The prototyping model facilitates the reusability of components.
+RAD Model facilitates reusability of components
+Both RAD & Prototyping Model facilitates reusability of components *
+None
+
+11) Which of the following models doesn't necessitate defining requirements at the earliest in the lifecycle?
+
+RAD & Waterfall
+Prototyping & Waterfall
+Spiral & Prototyping *
+Spiral & RAD
+
+12) When the user participation isn't involved, which of the following models will not result in the desired output?
+
+Prototyping & Waterfall
+Prototyping & RAD *
+Prototyping & Spiral
+RAD & Spiral
+
+26. _________ is a software development life cycle model that is chosen if the development team has less experience on similar projects.
+a) Iterative Enhancement Model
+b) RAD
+c) Spiral *
+d) Waterfall
+
+27. Agile Software Development is based on which of the following type?
+a) Iterative Development
+b) Incremental Development
+c) Both Incremental and Iterative Development *
+d) Linear Development
+
+28. _______________________ is a software developing team has a defined leader who coordinates specific tasks and secondary leaders that have responsibility for sub tasks.
+a) Democratic decentralized (DD)
+b) Controlled centralized (CC)
+c) Controlled decentralized (CD) *
+d) None of the mentioned
+
+29. 4GT Model is a set of __________________
+a) Programs
+b) CASE Tools
+c) Software tools *
+d) None of the mentioned
+
+30. Engineers developing software should not
+a) be dependent on their colleagues *
+b) maintain integrity and independence in their professional judgment
+c) not knowingly accept work that is outside your competence
+d) not use your technical skills to misuse other people’s computers
+
+31. __________ is not suitable for accommodating any change?
+a) RAD Model
+b) Waterfall Model *
+c) Build & Fix Model
+d) Prototyping Model
+
+32. The model which has a major disadvantage in terms of the coding phase of a software life cycle model is ________
+a) Rad Model
+b) Spiral Model
+c) 4GT Model *
+d) Waterfall Model
+
+33. Adaptive Software Development(ASD) has which of the following three framework activities?
+a) speculation, collaboration, learning *
+b) analysis, design, coding
+c) requirements gathering, adaptive cycle planning, iterative development
+d) all of the mentioned
+
+34. Which of the following is not a project factor that should be considered when planning the structure of software developing teams?
+a) The rigidity of the delivery date
+b) The degree of sociability required for the project *
+c) High frustration caused by personal, business, or technological factors that causes friction among team members
+d) The difficulty of the problem to be solved
+
+35. What is the full form of the “COCOMO” model?
+a) Cost Constructive Estimation Model
+b) Constructive Cost Estimation Model *
+c) Constructive Case Estimation Model
+d) Constructive Cost Estimating Model
+
+36. Which one of the following is not a software process quality?
+a) Visibility
+b) Timeliness
+c) Productivity
+d) Portability *
+
+37. Cleanroom software development process complies with the operational analysis principles by using a method called known as
+a) referential transparency
+b) degenerative error correction
+c) box structure specification *
+d) none of the mentioned
+
+38. What is system software?
+a) computer program *
+b) Testing
+c) AI
+d) IOT
+
+39. Quality Management is known as _______
+a) SQI
+b) SQA * (Software quality assurance)
+c) SQM
+d) SQA and SQM
+
+40. _____________ is the definition of objects in the database that leads directly to a standard approach for the creation of software documentation.
+a) Data/data integration
+b) Information sharing
+c) Document standardization *
+d) Data integrity
+
+41. ______________ is an indirect measure of software development process.
+a) Cost
+b) Effort Applied
+c) Efficiency *
+d) All of the mentioned
+
+42. According to an IBM research, “31% of projects are abandoned before they are completed, 53% exceed their cost projections by an average of 189 percent, and 94 projects are restarted for every 100 projects.” What is the significance of these figures?
+a) Lack of software ethics and understanding
+b) Management issues in the company
+c) Lack of adequate training *
+d) All of the mentioned
+
+43. Which of the following document contains the user system requirements?
+a) SRD
+b) DDD
+c) SDD
+d) SRS * (software requirements specification)
+
+44. _____________ specification is also known as SRS document.
+a) white-box
+b) grey-box
+c) black-box *
+d) none of the mentioned
+
+45. Which of the following is not a part of Software evolution?
+a) Re-engineering activities
+b) Maintenance activities
+c) Development activities
+d) Negotiating with client *
+
+46. ___________ is a Strategy to achieve Software diversity.
+a) Explicit specification of different algorithms
+b) Different programming languages
+c) Different design methods and tools
+d) All of the mentioned *
+
+47. In which step of SDLC actual programming of software code is done?
+a) Development and Documentation *
+b) Maintenance and Evaluation
+c) Design
+d) Analysis
+
+49. The word which describes the importance of software design is?
+a) Complexity
+b) Quality *
+c) Efficiency
+d) Accuracy
+
+50. The incorrect activity among the following for the configuration management of a software system is ________
+a) Version management
+b) System management
+c) Change management
+d) Internship management *
+
+1. What are the types of requirements ?
+a) Availability
+b) Reliability
+c) Usability
+d) All of the mentioned *
+
+2. Select the developer-specific requirement ?
+a) Portability
+b) Maintainability
+c) Availability
+d) Both Portability and Maintainability *
+
+3. Which one of the following is not a step of requirement engineering?
+a) elicitation
+b) design *
+c) analysis
+d) documentation
+
+4. FAST stands for
+a) Functional Application Specification Technique
+b) Fast Application Specification Technique
+c) Facilitated Application Specification Technique *
+d) None of the mentioned
+
+5. QFD stands for
+a) quality function design
+b) quality function development
+c) quality function deployment *
+d) none of the mentioned
+
+14) Arrange the following activities for making a software product by utilizing 4GT.
+
+I. Design strategy
+II. Transformation into product
+III. Implementation
+IV. Requirement gathering
+
+4, 1, 3, 2 *
+4, 3, 2, 1
+1, 2, 3, 4
+1, 4, 2, 3
+
+15) Which of the following is an example of Black Box and Functional Processing?
+
+First Generation Language
+Second Generation Language
+Third Generation Language
+Fourth Generation Language *
+
+16) __________ is identified as fourth generation language.
+
+Unix shell *
+C++
+COBOL
+FORTRAN
+
+18) Which of the following is the main advantage of deploying a 4GT model for producing small-scale products, programs, and applications?
+
+The productivity of software engineers is improved.
+The time required for developing software is reduced. *
+CASE tools and code generators help the 4GT model by providing a credible solution to their problems.
+None of the above.
+
+20) Which of the following falls under the category of software products?
+
+Firmware, CAD
+Embedded, CAM
+Customized, Generic *
+CAD, Embedded
+
+21) Software maintenance costs are expensive in contrast to software development.
+
+True *
+False
+
+22) Which of the following activities of the generic process framework delivers a feedback report?
+
+Deployment *
+Planning
+Modeling
+Construction
+
+23) Which of the following refers to internal software quality?
+
+
+Scalability
+Reusability *
+Reliability
+Usability
+
+24) RUP is abbreviated as __________, invented by a division of __________.
+
+Rational Unified Process, IBM *
+Rational Unified Program, IBM
+Rational Unified Process, Bell
+Rational Unified Program, Bell
+
+25) The RUP can be defined based on three main perspectives, i.e., static, dynamic & practice. What is the purpose of static perspective?
+
+It recommends some good practices that be included while carrying out the process.
+It displays all the enacted process activities. *
+It portrays the phases that the model has entered over a specific time.
+All of the above.
+
+26) Which one of the following activities is not recommended for software processes in software engineering?
+
+Software Evolution
+Software Verification *
+Software Testing & Validation
+Software designing
+
+30) Which of the following activities is not applicable to agile software development?
+
+Producing only the essential work products.
+Utilizing the strategy of incremental product delivery.
+Abolishing the project planning and testing. *
+All of the above
+
+31) Which of the following framework activities are carried out in Adaptive Software Development (ASD)?
+
+Assumption, Association, Learning *
+The investigation, Strategy, Coding
+Requirements gathering, Adaptive cycle planning, Iterative development
+All of the above
+
+32) The __________ model helps in representing the system's dynamic behavior.
+
+Object Model
+Context Model
+Behavioral Model *
+Data Model
+
+34) The __________ and __________ are the two major dimensions encompassed in the Spiral model.
+
+Diagonal, Perpendicular
+Perpendicular, Radial
+Angular, diagonal
+Radial, Angular * (The cumulative cost is represented by the radial dimension, whereas the angular dimension represents the progress made in the completion of each consecutive cycle. Each loop in the spiral model depicts the phase.)
+
+35) Which of the following technique is involved in certifying the sustained development of legacy systems?
+
+Reengineering
+Forward engineering
+Reverse engineering
+Reverse engineering and Reengineering *
+
+36) An erroneous system state that results in an unexpected system behavior is acknowledged as?
+
+System failure
+Human error or mistake
+System error *
+System fault
+
+37) What is the name of the approach that follows step-by-step instructions for solving a problem?
+
+An Algorithm *
+A Plan
+A List
+Sequential Structure
+
+38) Which of the following word correctly summarized the importance of software design?
+
+Quality *
+Complexity
+Efficiency
+Accuracy
+
+39) Which of the following methodology results in SA/SD features?
+
+Gane and Sarson methodology
+DeMarco and Yourdon methodology
+Constantine and Yourdon methodology
+All of the above *
+
+40) __________ is not considered as an activity of Structured Analysis (SA).
+
+Transformation of a textual problem description into a graphic model
+Functional decomposition
+All the functions represented in the DFD are mapped to a module structure *
+All of the mentioned
+
+41) What does a directed arc or line signify?
+
+Data Flow *
+Data Process
+Data Stores
+None of the above
+
+42) What does a data store symbol in the Data Flow Diagram signify?
+
+Logical File
+Physical File
+Data Structure
+All of the above *
+
+43) __________ is not a direct measure of SE process.
+
+Effort
+Cost
+Efficiency *
+All of the above
+
+44) What is the main task of project indicators?
+
+To evaluate the ongoing project's status and track possible risks. *
+To evaluate the ongoing project's status.
+To track potential risks.
+None of the above
+
+45) What is the main intent of project metrics?
+
+For strategic purposes
+To minimize the development schedule.
+To evaluate the ongoing project's quality on a daily basis
+To minimize the development schedule and evaluate the ongoing project's quality on a daily basis *
+
+46) Name the graphical practice that depicts the meaningful changes that occurred in metrics data.
+
+Function point analysis
+Control Chart *
+DRE (Defect Removal Efficiency)
+None of the above
+
+47) Which parameters are essentially used while computing the software development cost?
+
+Hardware and Software Costs
+Effort Costs
+Travel and Training Costs
+All of the above *
+
+48) Which of the following is an incorrect activity for the configuration management of a software system?
+
+Change management
+System management
+Internship management *
+Version management
+
+49) The project planner examines the statement of scope and extracts all-important software functions, which is known as
+
+Planning process
+Decomposition *
+Association
+All of the mentioned
+
+50) Which of the following Is not considered as an option for achieving reliable cost and effort estimation?
+
+The ability to translate the size estimate into human effort, calendar time, and dollars *
+Use relatively simple decomposition techniques to generate project cost and effort estimates.
+Base estimates on similar projects that have already been completed
+Use one or more empirical models for software cost and effort estimation
+
+51) Which of the following does not complement the decomposition techniques but offers a potential estimation approach for their impersonal growth?
+
+Empirical estimation models *
+Decomposition techniques
+Automated estimation tools
+Both empirical estimation models and automated estimation tools
+
+52) Which of the following is not included in the total effort cost?
+
+Costs of lunch time food *
+Costs of support staff
+Costs of networking and communications
+Costs of air conditioning and lighting in the office space
+
+53) What is developed by utilizing the historical cost function?
+
+Parkinson's Law
+Expert judgment
+Algorithmic cost modeling *
+Estimation by analogy
+
+54) Which of the following model has a misconception that systems are built by utilizing reusable components, scripts, and database programs?
+
+The reuse model
+An early designed model
+An application-composition model *
+A post architecture model
+
+55) Which of the following is used to predict the effort as a function of LOC or FP?
+
+COCOMO
+FP-based estimation
+Both COCOMO and FP-based estimation *
+Process-based estimation
+
+56) Once the requirements are stabilized, the basic architecture of the software can be established. Which of the following version of the COCOMO model conforms to the given statement?
+
+Application composition model *
+Post-architecture-stage model
+Early design stage model
+All of the above
+
+57) Which of the following threatens the quality and timeliness of the produced software?
+
+Business risks
+Potential risks
+Technical risks *
+Known risks
+
+58) Which of the following refers to the systematic attempt, which is implemented to ascertain the threats to any project plan?
+
+Performance risk
+Risk identification
+Risk projection *
+Support risk
+
+59) Which of the following standards is used by the aviation industry?
+
+CTRADO-172B
+RTCADO-178B *
+RTRADO-178B
+CTCADO-178B
+
+60) Third-Party Certification for software standards is based on __________.
+
+Ul 1996, Second Edition
+Ul 1998, Second Edition *
+Ul 1992, Second Edition
+UT 1998, Second Edition
+
